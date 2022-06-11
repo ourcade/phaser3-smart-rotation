@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is the source code for the YouTube video: [How to Rotate a Sprite Correctly with Tweens in Phaser 3](https://youtu.be/Q1baj2MExv4).
+This is the source code for the YouTube video: [How to Rotate a Sprite Correctly with Tweens in Phaser 3](https://youtu.be/3WloQupH_PQ).
 
 Just getting started with Phaser?
 
